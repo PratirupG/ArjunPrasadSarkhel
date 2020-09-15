@@ -1,6 +1,6 @@
  Hi there I am Arjun Prasad Sarkhel!! 👋
 
-A portfolio i recently made, do check it out- https://apsportfoliosite.herokuapp.com/ (will optimize the images for mobile a little bit better)
+A portfolio i recently made, do check it out- https://apsportfoliosite.herokuapp.com/ 
 
 - 🔭 I’m currently working on - Front End Web Developement
 - 🌱 I’m currently learning - Javascript
